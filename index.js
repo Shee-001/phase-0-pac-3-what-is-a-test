@@ -1,5 +1,5 @@
-const name = "Joe";
-const height = 74;
+const name = "Susan";  // Changed from "Joe"
+const height = 30;     // Changed from 74
 const message = `${name} is ${height} inches tall`;
 
-module.exports = {name, height, message};
+module.exports = { name, height, message };
